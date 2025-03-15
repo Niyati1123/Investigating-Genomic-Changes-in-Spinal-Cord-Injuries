@@ -1,2 +1,2 @@
 # Investigating-Genomic-Changes-in-Spinal-Cord-Injuries
-This study found that photo-biomodulation (PBM) treatment after spinal cord injury influences gene expression in the dorsal root ganglion tissue of rats.
+This study investigates what transcriptomic changes occur due to spinal cord injury and after photo-biomodulation (PBM) treatment in the dorsal root ganglion tissue of rats.
